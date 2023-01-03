@@ -1,0 +1,7 @@
+1.Install pretier plugin in vs code and from the preferences menue tick format
+ on save in order to format the code each time you save a file
+2.Use https://validator.w3.org/ for validation of HTML
+3.Use https://jigsaw.w3.org/css-validator/ for validation of CSS
+4.Type ! and press tab in VS code to get a boiler plate for html document
+5. as a best practice use one H1 Heading on a web page then followed by h2 - h6 
+6. Type lorem25 and it will generate 25 lorem words
