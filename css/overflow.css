@@ -1,0 +1,22 @@
+.box {
+
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border: 5px solid gold;
+}
+
+.overflow {
+
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border: 5px solid gold;
+    overflow: auto;
+    /* aligh the  span with the one besides it   */
+    vertical-align: top;
+}
+
+
+
+body {}
