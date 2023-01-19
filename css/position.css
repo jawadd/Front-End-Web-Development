@@ -1,0 +1,24 @@
+.boxes {
+
+    border: 3px solid gray;
+}
+
+.box {
+    width: 5rem;
+    height: 5rem;
+}
+
+.box-one {
+    background: gold;
+
+}
+
+.box-two {
+    background: tomato;
+    position: relative;
+    left: 5rem;
+}
+
+.box-three {
+    background: dodgerblue;
+}
