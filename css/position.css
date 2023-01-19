@@ -1,11 +1,16 @@
+body {}
+
 .boxes {
 
     border: 3px solid gray;
+    height: 100vh;
+
 }
 
 .box {
     width: 5rem;
-    height: 5rem;
+    height: 6rem;
+    float: left;
 }
 
 .box-one {
@@ -16,7 +21,7 @@
 .box-two {
     background: tomato;
     position: relative;
-    left: 5rem;
+
 }
 
 .box-three {
