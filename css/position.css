@@ -1,9 +1,15 @@
-body {}
-
 .boxes {
 
     border: 3px solid gray;
-    height: 100vh;
+    /* height: 100vh; */
+    /* overflow: hidden; */
+
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
 
 }
 
